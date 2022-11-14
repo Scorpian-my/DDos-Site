@@ -17,5 +17,5 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### ScreenShot 
 
-![capture]https://kinsta.com/wp-content/uploads/2020/01/what-is-a-ddos-attack-1024x512.jpg)
+![capture](https://kinsta.com/wp-content/uploads/2020/01/what-is-a-ddos-attack-1024x512.jpg)
 ### Telegram: t.me/Dev/Scorpian
